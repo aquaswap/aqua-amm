@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@aquaswap/aqua-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/aquaswap/aqua-uikit/tar.gz/b516c3c08c1ca694fd7334154ee9abe0f78a6949"
+  resolved "https://codeload.github.com/aquaswap/aqua-uikit/tar.gz/983c4328e2feb58f2f6e775755b2ac0082fc844b"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
